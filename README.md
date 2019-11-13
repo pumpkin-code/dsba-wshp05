@@ -1,3 +1,4 @@
-# DSBA Introduction to programming Workhop 1
+# DSBA Introduction to Programming // Workshop 5 Code
+Fall semester 2019/20
 
-Please read instructions in PDF file carefully.
+Dealing with chars and strings.
